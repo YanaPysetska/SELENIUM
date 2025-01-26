@@ -1,0 +1,14 @@
+# Игнорировать все файлы .DS_Store
+.DS_Store
+
+# Игнорировать все файлы .log
+*.log
+
+# Игнорировать директорию node_modules
+node_modules/
+
+# Игнорировать файл .env
+.env
+
+# Игнорировать файл settings.py
+settings.py
